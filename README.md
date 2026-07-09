@@ -1,5 +1,5 @@
 # College-and-AP-Help
-Resources to help you with College and AP Courses that I previously took!
+Resources to help you with College and AP Courses that I previously took! Let me know if there's more to add/ if you want to contribute! 
 
 ## Table of Contents
 
@@ -12,7 +12,6 @@ Resources to help you with College and AP Courses that I previously took!
 - [MicroEconomics Resources](#microeco-resources)
 - [World History Resources](#world-history-resources)
 - [US History Resources](#us-history-resources)
-- [Government Resources](#gov-resources)
 - [Programming Resources](#programming-resources)
 
 ## Calculus Resources
@@ -69,20 +68,34 @@ Resources to help you with College and AP Courses that I previously took!
 
 ## MicroEco Resources
 
-- (Add links here)
+- [Jacob Clifford - Youtube](https://www.youtube.com/channel/UCCQEbqDL8i40d83Au55lYMQ)
+- [ReviewEcon - Youtube](https://www.reviewecon.com/microeconomics)
+- [Khan Academy](https://www.khanacademy.org/economics-finance-domain/ap-microeconomics)
 
 ## World History Resources
 
-- (Add links here)
+- [Heimler's History - Youtube](https://www.youtube.com/@heimlershistory)
+- [Freemanpedia - Youtube](https://www.youtube.com/@Freeman_pedia)
+- [Khan Academy](https://www.khanacademy.org/humanities/world-history-project-ap)
+- [Knowt](https://knowt.com/exams/AP/AP-World-History_Modern)
 
 ## US History Resources
 
-- (Add links here)
-
-## Government Resources
-
-- (Add links here)
+- [Heimler's History - Youtube](https://www.youtube.com/@heimlershistory)
+- [Adam Norris - Youtube](https://www.youtube.com/@AdamNorrisAPUSH)
+- [Jocz Productions - Youtube](https://www.youtube.com/playlist?list=PL-69ThEyf7-BOS9ppIm3mpVxnuvcIVVKz)
+- [Extra History - Youtube](https://www.youtube.com/@extrahistory)
+- [Oversimplified - Youtube](https://www.youtube.com/@OverSimplified)
+- [Ultimate Review Packet - Youtube](https://www.youtube.com/@APUSHistoryURP)
+- [Khan Academy](https://www.khanacademy.org/humanities/ap-us-history)
+- [Knowt](https://knowt.com/exams/AP/AP-United-States-History)
+- [Marco Learning - Youtube](https://www.youtube.com/playlist?list=PLCEja84uspXvdZ1uYkLzCWOW6irRogZPu)
+- [Amsco](https://www.browardschools.com/cms/lib/FL01803656/Centricity/Domain/19576/AMSCO%20AP%20US%20History%20Textbook.pdf)
 
 ## Programming Resources
+- [FreeCodeCamp - Youtube](https://www.youtube.com/@freecodecamp)
+- [MIT - Youtube](https://youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&si=xNXpvrcmyzb2AZJM)
+- [CS50 - Youtube](https://www.youtube.com/@cs50)
+- [Programming with Mosh - Youtube](https://www.youtube.com/@programmingwithmosh)
+  
 
-- (Add links here)
