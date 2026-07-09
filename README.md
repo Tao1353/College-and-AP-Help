@@ -1,6 +1,6 @@
 # College-and-AP-Help
 Resources to help you with College and AP Courses that I previously took! 
-##Table of Contents
+#Table of Contents
 -[Calculus](#Calculus-Resources)
 -[Statistics](#Stats-Resources) 
 -[Physics](#Physics-Resources)
