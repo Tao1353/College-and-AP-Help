@@ -1,7 +1,7 @@
 # College-and-AP-Help <br>
 Resources to help you with College and AP Courses that I previously took!  
 <h2>Calculus-Resources </h2>
-[Organic-Chemistry-Tutor](https://youtube.com/playlist?list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv&si=K0MK8T9__P0vCGka) <br>
+-[Organic-Chemistry-Tutor](https://youtube.com/playlist?list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv&si=K0MK8T9__P0vCGka) <br>
 [Professor-Leonard](https://www.youtube.com/@ProfessorLeonard) <br>
 [3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&si=6fX2150Wv3LXzqce) <br>
 [BlackpenRedpen](https://www.youtube.com/@blackpenredpen)<br>
