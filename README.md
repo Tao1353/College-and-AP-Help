@@ -17,12 +17,14 @@ Resources to help you with College and AP Courses that I previously took! Let me
 ## Calculus Resources
 
 - [Organic Chemistry Tutor - Calculus playlist](https://youtube.com/playlist?list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv&si=K0MK8T9__P0vCGka)
-- [Professor Leonard](https://www.youtube.com/@ProfessorLeonard)
+- [Professor Leonard - Youtube](https://www.youtube.com/@ProfessorLeonard)
 - [3Blue1Brown - Essence of calculus](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&si=6fX2150Wv3LXzqce)
 - [Blackpenredpen](https://www.youtube.com/@blackpenredpen)
 - [Khan Academy - Calculus 1](https://www.khanacademy.org/math/calculus-1)
-- [Paul Notes (Google Share link)](https://share.google/Qy2xDZKGBhTUYvZrO)
+- [Paul Notes](https://share.google/Qy2xDZKGBhTUYvZrO)
 - [JK Math](https://www.youtube.com/playlist?list=PLHdRLeAbIZE6krGDQthaQRpLZFLD4ob54)
+- [Professor V - Youtube](https://www.youtube.com/@mathwithprofessorv)
+- [OpenStax - Textbook](https://share.google/q0qMImXD89lU6K3h5)
 
 ## Stats Resources
 
