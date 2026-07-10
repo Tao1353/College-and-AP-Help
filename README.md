@@ -41,6 +41,7 @@ Resources to help you with College and AP Courses that I previously took! Let me
 - [Spahn - Physics](https://youtube.com/playlist?list=PLNycEeeRg4mWslgmYTqWgmO2e9eE9GAtl&si=hsUCMtWHsabEuPpY)
 - [Math And Science - Physics](https://www.youtube.com/playlist?list=PLnVYEpTNGNtXcjaUb7ETHqjZdrGADjEKU)
 - [Khan Academy - AP/College Physics 1](https://www.khanacademy.org/science/ap-college-physics-1)
+- [Openstax - Textbook](https://share.google/zYCdlsnnaBZiqtqIN)
 
 ## Chem Resources
 
