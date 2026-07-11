@@ -25,6 +25,10 @@ Resources to help you with College and AP Courses that I previously took! Let me
 - [JK Math](https://www.youtube.com/playlist?list=PLHdRLeAbIZE6krGDQthaQRpLZFLD4ob54)
 - [Professor V - Youtube](https://www.youtube.com/@mathwithprofessorv)
 - [OpenStax - Textbook](https://share.google/q0qMImXD89lU6K3h5)
+- [MIT - Youtube](https://www.youtube.com/@mitocw)
+- [Knowt - AP Calc](https://knowt.com/exams/AP)
+- [Tao's Flashcards (Calc 1 and 2)](https://knowt.com/folder/4de9b8fa-071d-445a-8769-8005654e8747)
+- [MTH 209 - Flashcards](https://knowt.com/folder/2bcc6de5-3cd5-4951-ac93-8cbac1e1bf59) 
 
 ## Stats Resources
 
@@ -33,6 +37,8 @@ Resources to help you with College and AP Courses that I previously took! Let me
 - [Skew The Script - AP Stats](https://youtube.com/playlist?list=PLsfM4B38vlQeM_lxrzUBm_voqeeYgxsQ6&si=370EdB3MKYBIs4hh)
 - [Khan Academy - AP Statistics](https://www.khanacademy.org/math/ap-statistics)
 - [Organic Chemistry Tutor - Stats playlist](https://youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV&si=EYCCEQFIJtUBAffT)
+- [Knowt - AP Stats](https://knowt.com/exams/AP/AP-Statistics)
+- [Tao's Flashcards](https://knowt.com/folder/4ba4295b-c1d0-4c4e-bd19-f608452ab993)
 
 ## Physics Resources
 
@@ -42,6 +48,10 @@ Resources to help you with College and AP Courses that I previously took! Let me
 - [Math And Science - Physics](https://www.youtube.com/playlist?list=PLnVYEpTNGNtXcjaUb7ETHqjZdrGADjEKU)
 - [Khan Academy - AP/College Physics 1](https://www.khanacademy.org/science/ap-college-physics-1)
 - [Openstax - Textbook](https://share.google/zYCdlsnnaBZiqtqIN)
+- [Knowt - AP Physics](https://knowt.com/exams/AP)
+- [Flipping Physics - Youtube](https://www.youtube.com/@FlippingPhysics)
+- [PHY 131 - Flashcards](https://knowt.com/folder/540c1cf7-f2b9-47fe-8571-396840adf85e)
+- [PHY 132 - Flashcards](https://knowt.com/folder/196b0a85-026c-415f-9f0e-144fb4f3c6c8)
 
 ## Chem Resources
 
@@ -54,6 +64,7 @@ Resources to help you with College and AP Courses that I previously took! Let me
 - [Michael Farabaugh - Chemistry playlist](https://youtube.com/playlist?list=PLmtMZsGcmFlsGaBrpjdEWW55Vc84XA1Jc&si=3fz7CRQM6p4BzTww)
 - [Crash Course - Chemistry playlist](https://youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr&si=3kgkVfYcwss6riyB)
 - [Cararra - Chemistry playlist](https://youtube.com/playlist?list=PLtLxhThTxJMWVs29UMoY0FwQ8eX8M3E8L&si=jMNWnZ2XFfDvwOMh)
+- [Tao's Flashcards](https://knowt.com/folder/959c1046-3a3b-41a1-a7a1-05876697b334)
 
 ## Bio Resources
 
@@ -62,18 +73,24 @@ Resources to help you with College and AP Courses that I previously took! Let me
 - [Knowt - AP Biology](https://knowt.com/exams/AP/AP-Biology)
 - [Bozeman Science - Biology playlist](https://youtube.com/playlist?list=PLFCE4D99C4124A27A&si=uYxKcNPJBoSMeEV4)
 - [Crash Course - Biology playlist](https://youtube.com/playlist?list=PL8dPuuaLjXtPW_ofbxdHNciuLoTRLPMgB&si=MHPHEY-4TbwmLDMg)
+- [Openstax - Textbook](https://openstax.org/details/books/biology-2e)
 
 ## Psych Resources
 
 - [Mr. Sinn - YouTube](https://www.youtube.com/c/MrSinn)
 - [Tim Steadman - YouTube](https://www.youtube.com/@TimSteadman)
 - [Mandy Rice - The Sustainable Teacher](https://www.youtube.com/@TheSustainableTeacher)
-
+- [Knowt - AP Psych](https://knowt.com/exams/AP/AP-Psychology)
+- [Openstax - Textbook](https://openstax.org/details/books/psychology-2e)
+- [PSY 209 - Flashcards](https://knowt.com/folder/86d0fe92-2a1d-4384-83a0-fae346b2164c)
+- [PSY 206 - Flashcards](https://knowt.com/folder/cf9c0f54-0c0f-497e-bffe-913b3d87f8f7) 
 ## MicroEco Resources
 
 - [Jacob Clifford - Youtube](https://www.youtube.com/channel/UCCQEbqDL8i40d83Au55lYMQ)
 - [ReviewEcon - Youtube](https://www.reviewecon.com/microeconomics)
 - [Khan Academy](https://www.khanacademy.org/economics-finance-domain/ap-microeconomics)
+- [Knowt - AP Micro](https://knowt.com/exams/AP/AP-Microeconomics)
+- [Tao's Flashcards](https://knowt.com/folder/25054436-2417-4a30-a7ed-9a06576dcc15)
 
 ## World History Resources
 
@@ -91,14 +108,21 @@ Resources to help you with College and AP Courses that I previously took! Let me
 - [Oversimplified - Youtube](https://www.youtube.com/@OverSimplified)
 - [Ultimate Review Packet - Youtube](https://www.youtube.com/@APUSHistoryURP)
 - [Khan Academy](https://www.khanacademy.org/humanities/ap-us-history)
-- [Knowt](https://knowt.com/exams/AP/AP-United-States-History)
+- [Knowt - AP US History](https://knowt.com/exams/AP/AP-United-States-History)
 - [Marco Learning - Youtube](https://www.youtube.com/playlist?list=PLCEja84uspXvdZ1uYkLzCWOW6irRogZPu)
 - [Amsco](https://www.browardschools.com/cms/lib/FL01803656/Centricity/Domain/19576/AMSCO%20AP%20US%20History%20Textbook.pdf)
 
-## Programming Resources
+## Programming/Computer Science Resources
 - [FreeCodeCamp - Youtube](https://www.youtube.com/@freecodecamp)
-- [MIT - Youtube](https://youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB&si=xNXpvrcmyzb2AZJM)
+- [MIT - Youtube](https://www.youtube.com/@mitocw)
 - [CS50 - Youtube](https://www.youtube.com/@cs50)
 - [Programming with Mosh - Youtube](https://www.youtube.com/@programmingwithmosh)
+- [OpenStax - Textbook](https://openstax.org/subjects/computer-science)
+- [Knowt](https://knowt.com/exams/AP)
+- [AI 202 - Flashcards](https://knowt.com/folder/75a5bf72-a510-4a97-a7ab-6f8f60bb0cba)
+- [AI 217 - Flashcards](https://knowt.com/folder/76163b9b-f504-4caa-b622-07fc8800ab6b)
+- [DA 203 - Flashcards](https://knowt.com/folder/4dfb18b2-904d-40d6-a25e-d464aa8067eb)
+- [ENGR 240 - Flashcards](https://knowt.com/folder/17a3cc84-dd28-4845-81da-0597a0b87b00)
+  
   
 
