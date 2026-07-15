@@ -60,12 +60,15 @@ Resources to help you with College and AP Courses that I previously took! Let me
 - [Kent Chemistry](http://www.kentchemistry.com/)
 - [Jeremy Krug - YouTube](https://www.youtube.com/c/JeremyKrug)
 - [Abigail Giodarono - YouTube](https://m.youtube.com/channel/UCdwTtodP-9WuIhvib6gcAHA)
-- [Bozeman Science - Chemistry playlist](https://youtube.com/playlist?list=PLllVwaZQkS2op2kDuFifhStNsS49LAxkZ&si=uoh6ucyPLxrfLHdo)
-- [Michael Farabaugh - Chemistry playlist](https://youtube.com/playlist?list=PLmtMZsGcmFlsGaBrpjdEWW55Vc84XA1Jc&si=3fz7CRQM6p4BzTww)
-- [Crash Course - Chemistry playlist](https://youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr&si=3kgkVfYcwss6riyB)
-- [Cararra - Chemistry playlist](https://youtube.com/playlist?list=PLtLxhThTxJMWVs29UMoY0FwQ8eX8M3E8L&si=jMNWnZ2XFfDvwOMh)
+- [Bozeman Science - Youtube](https://youtube.com/playlist?list=PLllVwaZQkS2op2kDuFifhStNsS49LAxkZ&si=uoh6ucyPLxrfLHdo)
+- [Michael Farabaugh - Youtube](https://youtube.com/playlist?list=PLmtMZsGcmFlsGaBrpjdEWW55Vc84XA1Jc&si=3fz7CRQM6p4BzTww)
+- [Crash Course - Youtube](https://youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr&si=3kgkVfYcwss6riyB)
+- [Cararra - Youtube](https://youtube.com/playlist?list=PLtLxhThTxJMWVs29UMoY0FwQ8eX8M3E8L&si=jMNWnZ2XFfDvwOMh)
 - [Tao's Flashcards](https://knowt.com/folder/959c1046-3a3b-41a1-a7a1-05876697b334)
-- [AP Chem Notes](https://drive.google.com/drive/folders/1TJAdtpb0FHL6og4OHpRepOdmTNrFuEsX?usp=sharing)
+- [AP Chem Notes and Textbook](https://drive.google.com/drive/folders/1TJAdtpb0FHL6og4OHpRepOdmTNrFuEsX?usp=sharing)
+- [HS Chem Honors Notes](https://drive.google.com/drive/folders/1LCSe_4yPvZdlCgNQ5Qqr6uycaTQg3kYX?usp=sharing)
+- [HS Chem Honors - Youtube](https://youtube.com/@mr.sayers1783?si=t7YOwrwwl3tvgVDd)
+- [Organic Chemistry Tutor - Youtube](https://youtube.com/playlist?list=PL0o_zxa4K1BWziAvOKdqsMFSB_MyyLAqS&si=Ef6mhTtcmPSCxh6r)
 
 ## Bio Resources
 
