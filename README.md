@@ -65,7 +65,7 @@ Resources to help you with College and AP Courses that I previously took! Let me
 - [Crash Course - Chemistry playlist](https://youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr&si=3kgkVfYcwss6riyB)
 - [Cararra - Chemistry playlist](https://youtube.com/playlist?list=PLtLxhThTxJMWVs29UMoY0FwQ8eX8M3E8L&si=jMNWnZ2XFfDvwOMh)
 - [Tao's Flashcards](https://knowt.com/folder/959c1046-3a3b-41a1-a7a1-05876697b334)
-- [AP Chem Notes](https://classroom.google.com/u/2/c/NzEyMjc1MDE3NTg0)
+- [AP Chem Notes](https://drive.google.com/drive/folders/1TJAdtpb0FHL6og4OHpRepOdmTNrFuEsX?usp=sharing)
 
 ## Bio Resources
 
