@@ -69,6 +69,8 @@ Resources to help you with College and AP Courses that I previously took! Let me
 - [HS Chem Honors Notes](https://drive.google.com/drive/folders/1LCSe_4yPvZdlCgNQ5Qqr6uycaTQg3kYX?usp=sharing)
 - [HS Chem Honors - Youtube](https://youtube.com/@mr.sayers1783?si=t7YOwrwwl3tvgVDd)
 - [Organic Chemistry Tutor - Youtube](https://youtube.com/playlist?list=PL0o_zxa4K1BWziAvOKdqsMFSB_MyyLAqS&si=Ef6mhTtcmPSCxh6r)
+- [OpenStax - Textbook](https://openstax.org/books/chemistry-2e/pages/preface)
+- [OpenStax - Flashcards](https://knowt.com/folder/fa2f9c37-c0eb-4063-964d-a5178ef5b563)
 
 ## Bio Resources
 
