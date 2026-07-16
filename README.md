@@ -59,6 +59,7 @@ Resources to help you with College and AP Courses that I previously took! Let me
 - [Khan Academy - AP Chemistry](https://www.khanacademy.org/science/ap-chemistry-beta)
 - [Kent Chemistry](http://www.kentchemistry.com/)
 - [Jeremy Krug - YouTube](https://www.youtube.com/c/JeremyKrug)
+- [URP - Notes](https://drive.google.com/drive/folders/1E7-k2lzEQ2n4AzGff09nwt5UeDXHUQew?usp=sharing)
 - [Abigail Giodarono - YouTube](https://m.youtube.com/channel/UCdwTtodP-9WuIhvib6gcAHA)
 - [Bozeman Science - Youtube](https://youtube.com/playlist?list=PLllVwaZQkS2op2kDuFifhStNsS49LAxkZ&si=uoh6ucyPLxrfLHdo)
 - [Michael Farabaugh - Youtube](https://youtube.com/playlist?list=PLmtMZsGcmFlsGaBrpjdEWW55Vc84XA1Jc&si=3fz7CRQM6p4BzTww)
@@ -71,6 +72,7 @@ Resources to help you with College and AP Courses that I previously took! Let me
 - [Organic Chemistry Tutor - Youtube](https://youtube.com/playlist?list=PL0o_zxa4K1BWziAvOKdqsMFSB_MyyLAqS&si=Ef6mhTtcmPSCxh6r)
 - [OpenStax - Textbook](https://openstax.org/books/chemistry-2e/pages/preface)
 - [OpenStax - Flashcards](https://knowt.com/folder/fa2f9c37-c0eb-4063-964d-a5178ef5b563)
+- [Chemistry Teaching](https://chemistry-teaching-resources.com/APChemUnit1.html)
 
 ## Bio Resources
 
