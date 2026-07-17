@@ -28,7 +28,7 @@ Resources to help you with College and AP Courses that I previously took! Let me
 - [MIT - Youtube](https://www.youtube.com/@mitocw)
 - [Knowt - AP Calc](https://knowt.com/exams/AP)
 - [Tao's Flashcards (Calc 1 and 2)](https://knowt.com/folder/4de9b8fa-071d-445a-8769-8005654e8747)
-- [MTH 209 - Flashcards](https://knowt.com/folder/2bcc6de5-3cd5-4951-ac93-8cbac1e1bf59) 
+- [Calc 3 - Flashcards](https://knowt.com/folder/2bcc6de5-3cd5-4951-ac93-8cbac1e1bf59) 
 
 ## Stats Resources
 
@@ -50,8 +50,8 @@ Resources to help you with College and AP Courses that I previously took! Let me
 - [Openstax - Textbook](https://share.google/zYCdlsnnaBZiqtqIN)
 - [Knowt - AP Physics](https://knowt.com/exams/AP)
 - [Flipping Physics - Youtube](https://www.youtube.com/@FlippingPhysics)
-- [PHY 131 - Flashcards](https://knowt.com/folder/540c1cf7-f2b9-47fe-8571-396840adf85e)
-- [PHY 132 - Flashcards](https://knowt.com/folder/196b0a85-026c-415f-9f0e-144fb4f3c6c8)
+- [Physics 1- Flashcards](https://knowt.com/folder/540c1cf7-f2b9-47fe-8571-396840adf85e)
+- [Physics 2 - Flashcards](https://knowt.com/folder/196b0a85-026c-415f-9f0e-144fb4f3c6c8)
 
 ## Chem Resources
 
@@ -90,8 +90,8 @@ Resources to help you with College and AP Courses that I previously took! Let me
 - [Mandy Rice - The Sustainable Teacher](https://www.youtube.com/@TheSustainableTeacher)
 - [Knowt - AP Psych](https://knowt.com/exams/AP/AP-Psychology)
 - [Openstax - Textbook](https://openstax.org/details/books/psychology-2e)
-- [PSY 209 - Flashcards](https://knowt.com/folder/86d0fe92-2a1d-4384-83a0-fae346b2164c)
-- [PSY 206 - Flashcards](https://knowt.com/folder/cf9c0f54-0c0f-497e-bffe-913b3d87f8f7) 
+- [Psychopathology - Flashcards](https://knowt.com/folder/86d0fe92-2a1d-4384-83a0-fae346b2164c)
+- [Social Psychology - Flashcards](https://knowt.com/folder/cf9c0f54-0c0f-497e-bffe-913b3d87f8f7) 
 ## MicroEco Resources
 
 - [Jacob Clifford - Youtube](https://www.youtube.com/channel/UCCQEbqDL8i40d83Au55lYMQ)
@@ -127,10 +127,10 @@ Resources to help you with College and AP Courses that I previously took! Let me
 - [Programming with Mosh - Youtube](https://www.youtube.com/@programmingwithmosh)
 - [OpenStax - Textbook](https://openstax.org/subjects/computer-science)
 - [Knowt](https://knowt.com/exams/AP)
-- [AI 202 - Flashcards](https://knowt.com/folder/75a5bf72-a510-4a97-a7ab-6f8f60bb0cba)
-- [AI 217 - Flashcards](https://knowt.com/folder/76163b9b-f504-4caa-b622-07fc8800ab6b)
-- [DA 203 - Flashcards](https://knowt.com/folder/4dfb18b2-904d-40d6-a25e-d464aa8067eb)
-- [ENGR 240 - Flashcards](https://knowt.com/folder/17a3cc84-dd28-4845-81da-0597a0b87b00)
+- [OOP 1 - Flashcards](https://knowt.com/folder/75a5bf72-a510-4a97-a7ab-6f8f60bb0cba)
+- [OOP 2 - Flashcards](https://knowt.com/folder/76163b9b-f504-4caa-b622-07fc8800ab6b)
+- [Python(Data Science) - Flashcards](https://knowt.com/folder/4dfb18b2-904d-40d6-a25e-d464aa8067eb)
+- [Engineering Graphics- Flashcards](https://knowt.com/folder/17a3cc84-dd28-4845-81da-0597a0b87b00)
 - [Derek Banas - Youtube](https://www.youtube.com/@derekbanas)
 - [The Cherno - Youtube](https://www.youtube.com/@TheCherno)
   
