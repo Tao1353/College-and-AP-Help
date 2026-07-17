@@ -131,6 +131,8 @@ Resources to help you with College and AP Courses that I previously took! Let me
 - [AI 217 - Flashcards](https://knowt.com/folder/76163b9b-f504-4caa-b622-07fc8800ab6b)
 - [DA 203 - Flashcards](https://knowt.com/folder/4dfb18b2-904d-40d6-a25e-d464aa8067eb)
 - [ENGR 240 - Flashcards](https://knowt.com/folder/17a3cc84-dd28-4845-81da-0597a0b87b00)
+- [Derek Banas - Youtube](https://www.youtube.com/@derekbanas)
+- [The Cherno - Youtube](https://www.youtube.com/@TheCherno)
   
   
 
