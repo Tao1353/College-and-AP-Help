@@ -73,6 +73,7 @@ Resources to help you with College and AP Courses that I previously took! Let me
 - [OpenStax - Textbook](https://openstax.org/books/chemistry-2e/pages/preface)
 - [OpenStax - Flashcards](https://knowt.com/folder/fa2f9c37-c0eb-4063-964d-a5178ef5b563)
 - [Chemistry Teaching](https://chemistry-teaching-resources.com/APChemUnit1.html)
+- [CED NotebookLM](https://notebooklm.google.com/notebook/5f79061e-a970-4da5-8867-c0fceb9f349f)
 
 ## Bio Resources
 
