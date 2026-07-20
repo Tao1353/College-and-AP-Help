@@ -73,7 +73,7 @@ Resources to help you with College and AP Courses that I previously took! Let me
 - [OpenStax - Textbook](https://openstax.org/books/chemistry-2e/pages/preface)
 - [OpenStax - Flashcards](https://knowt.com/folder/fa2f9c37-c0eb-4063-964d-a5178ef5b563)
 - [Chemistry Teaching](https://chemistry-teaching-resources.com/APChemUnit1.html)
-- [Podcasts](https://open.spotify.com/playlist/2ucNN2zp8sdn6UAhIu1HIZ?si=dpnVcXTmRSqQWXEM_VKbWw&utm_source=copy-link&pi=8QsBUHwGRSuOI)
+- [Chem with Corrine - Youtube](https://www.youtube.com/@chemwithcorinne118)
 
 ## Bio Resources
 
