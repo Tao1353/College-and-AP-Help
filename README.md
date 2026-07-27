@@ -74,6 +74,7 @@ Resources to help you with College and AP Courses that I previously took! Let me
 - [OpenStax - Flashcards](https://knowt.com/folder/fa2f9c37-c0eb-4063-964d-a5178ef5b563)
 - [Chemistry Teaching](https://chemistry-teaching-resources.com/APChemUnit1.html)
 - [Chem with Corrine - Youtube](https://www.youtube.com/@chemwithcorinne118)
+- [ChemQuiz.Net](https://chemquiz.net/)
 
 ## Bio Resources
 
